@@ -1,0 +1,41 @@
+/* This is a comment */
+
+h1 {
+  color: red;
+}
+
+div {
+  font-size: 20px;
+}
+
+.even-div {
+  background-color: lime;
+}
+
+#site-title {
+  text-decoration: underline;
+}
+
+.fourth-class ~ div {
+  border: 5px dashed red;
+}
+
+div.even-div {
+  border: 2px solid #000;
+}
+
+div p {
+  font-weight: bold;
+}
+
+.even-div p {
+  color: orange;
+}
+
+.third-class > p {
+  font-style: italic;
+}
+
+.fourth-class + div {
+  background-color: yellow;
+}
