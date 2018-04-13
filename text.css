@@ -1,0 +1,15 @@
+body {
+  /* font-family: Helvetica; */
+  /* font-family: serif; */
+  /* font-family: sans-serif; */
+  /* font-family: monospace; */
+  /* font-family: cursive; */
+  /* font-family: fantasy; */
+  /* font-family: "Helvetica Neue", Helvetica, sans-serif; */
+  font-family: 'Poppins', sans-serif;
+  font-weight: 100;
+  font-size: 40px;
+  /* color: rgb(149, 75, 21); */
+  /* color: #7977ff; */
+  color: rgba(145, 30, 20, 0.75);
+}
